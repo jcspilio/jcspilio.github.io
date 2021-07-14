@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data science on Jean-Christophe Spiliotis</title>
+    <link>https://jcspil.io/tags/data-science/</link>
+    <description>Recent content in Data science on Jean-Christophe Spiliotis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Header: *color-wander* by [Matt DesLauriers](https://www.mattdesl.com/)</copyright>
+    <lastBuildDate>Thu, 02 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jcspil.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistics and Data Analysis</title>
+      <link>https://jcspil.io/teaching-resource/statistics-and-data-analysis/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/statistics-and-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics II</title>
+      <link>https://jcspil.io/teaching-resource/statistics-2/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/statistics-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who&#39;s Afraid of the Big (Bad) Data?</title>
+      <link>https://jcspil.io/teaching-resource/big-bad-data/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/big-bad-data/</guid>
+      <description>&lt;p&gt;This presentation was part of a webinar series for the 
+&lt;a href=&#34;https://www.theidhouse.com/ydp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youth Delegate Program&lt;/a&gt;, a one-year fellowship program for young actors of international development from all around the world. It served as an introduction to the know-hows of data science: where to find data, how to collect data on your own project or organization, and how (not) to use it to guide decisions and evaluate the impact of interventions.&lt;/p&gt;
+&lt;h3 id=&#34;a-hreffilesydp-slidespdflecture-slidesa&#34;&gt;&lt;!-- raw HTML omitted --&gt;Lecture slides&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-what-is-data&#34;&gt;1. What is data?&lt;/h2&gt;
+&lt;p&gt;Spreadsheets, but not only&amp;hellip;&lt;!-- raw HTML omitted --&gt;
+Qualitative and quantitative data&lt;/p&gt;
+&lt;h2 id=&#34;2-a-data-hikers-guide&#34;&gt;2. A Data Hiker&amp;rsquo;s Guide&lt;/h2&gt;
+&lt;p&gt;The skill set&lt;!-- raw HTML omitted --&gt;
+The tool set&lt;/p&gt;
+&lt;h2 id=&#34;3-letting-the-data-speak&#34;&gt;3. Letting the data speak&lt;/h2&gt;
+&lt;p&gt;Why visualize?&lt;!-- raw HTML omitted --&gt;
+How to visualize?&lt;!-- raw HTML omitted --&gt;
+Some visualization caveats&lt;/p&gt;
+&lt;h2 id=&#34;4-making-the-data-sing&#34;&gt;4. Making the data sing&lt;/h2&gt;
+&lt;p&gt;Beyond description: prediction and causality&lt;!-- raw HTML omitted --&gt;
+The role of theory&lt;/p&gt;
+&lt;h2 id=&#34;5-dont-fall-for-the-sirens-song&#34;&gt;5. Don&amp;rsquo;t fall for the sirens&amp;rsquo; song!&lt;/h2&gt;
+&lt;p&gt;Spurious relationships&lt;!-- raw HTML omitted --&gt;
+Researcher bias&lt;/p&gt;
+&lt;h2 id=&#34;6-where-is-data&#34;&gt;6. Where is data?&lt;/h2&gt;
+&lt;p&gt;Internal data&lt;!-- raw HTML omitted --&gt;
+The N.E.R.D. framework&lt;!-- raw HTML omitted --&gt;
+Finding external data&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Economic Statistics</title>
+      <link>https://jcspil.io/teaching-resource/introduction-to-economic-statistics/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/introduction-to-economic-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intermediate Econometrics</title>
+      <link>https://jcspil.io/teaching-resource/intermediate-econometrics/</link>
+      <pubDate>Sat, 26 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/intermediate-econometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introductory Econometrics</title>
+      <link>https://jcspil.io/teaching-resource/introductory-econometrics/</link>
+      <pubDate>Sat, 14 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/introductory-econometrics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

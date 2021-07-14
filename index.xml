@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-Christophe Spiliotis</title>
+    <link>https://jcspil.io/</link>
+    <description>Recent content on Jean-Christophe Spiliotis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Header: *color-wander* by [Matt DesLauriers](https://www.mattdesl.com/)</copyright>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jcspil.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://jcspil.io/publication/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching resources</title>
+      <link>https://jcspil.io/teaching-resource/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://jcspil.io/post/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

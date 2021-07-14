@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Behaviour on Jean-Christophe Spiliotis</title>
+    <link>https://jcspil.io/tags/behaviour/</link>
+    <description>Recent content in Behaviour on Jean-Christophe Spiliotis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Header: *color-wander* by [Matt DesLauriers](https://www.mattdesl.com/)</copyright>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jcspil.io/tags/behaviour/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Game Theory</title>
+      <link>https://jcspil.io/teaching-resource/game-theory/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/game-theory/</guid>
+      <description>&lt;p&gt;Game theory is one of the success stories of modern economics. Originally concerned with gambling, it has since become part of the standard toolkit of social scientists, biologists, psychologists, political scientists -- even historians and philosophers! This course is an introduction to the methods and applications of game theory. It is designed to stimulate careful thinking about the use (and potential abuse) of mathematics as an instrument for the formal study of strategic behaviour. It also provides empirical evidence on these interactions.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;i-pure-game-theory&#34;&gt;I. Pure game theory&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-fundamentals-of-game-theory&#34;&gt;1. Fundamentals of game theory&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Solution concepts (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture1.pdf&#34;&gt;Lecture 1&lt;/a&gt;, &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture2.pdf&#34;&gt;Lecture 2&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Bayesian games (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture4.pdf&#34;&gt;Lecture 4&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Global games (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture5.pdf&#34;&gt;Lecture 5&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Voting games (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture%206_SH.pdf&#34;&gt;Lecture 6&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Behavioral game theory (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture1.pdf&#34;&gt;Lecture 3&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;assignments&#34;&gt;Assignments&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Week 2&lt;/em&gt;: &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Class1.pdf&#34;&gt;Problem set 1&lt;/a&gt;, problems 1, 2 and 3; &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Class2_alt.pdf&#34;&gt;problem set 2&lt;/a&gt;, problem 1.&lt;br&gt;
+&lt;em&gt;Week 3&lt;/em&gt;: &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Class2_alt.pdf&#34;&gt;Problem set 2&lt;/a&gt;, problems 2 and 3; &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Class3.pdf&#34;&gt;problem set 3&lt;/a&gt;, problem 2.&lt;/p&gt;
+
+&lt;h4 id=&#34;suggested-readings&#34;&gt;Suggested readings&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MO chapters 2 (Nash equilibrium), 4 (mixed-strategy equilibrium), 9 (Bayesian games) and 12 (rationalizability).&lt;/li&gt;
+&lt;li&gt;Chiappori, P., S. Levitt, and T. Groseclose, &#39;&lt;a href=&#34;http://pricetheory.uchicago.edu/levitt/Papers/ChiapporiGrosecloseLevitt2002.pdf&#34;&gt;Testing Mixed-Strategy Equilibria when Players are Heterogeneous: The Case of Penalty Kicks in Soccer&lt;/a&gt;&#39;, &lt;em&gt;American Economic Review&lt;/em&gt;, 92 (2002), 1138--1151.&lt;/li&gt;
+&lt;li&gt;Diamond, D. &#39;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.417.4607&amp;amp;rep=rep1&amp;amp;type=pdf&#34;&gt;Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model&lt;/a&gt;&#39;, &lt;em&gt;Economics Quarterly&lt;/em&gt;, 93 (2007), 189–200.&lt;/li&gt;
+&lt;li&gt;van den Assem, M., D. van Dolder and R. Thaler. 2012. &#39;&lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1110.1413&#34;&gt;Split or Steal? Cooperative Behavior when the Stakes are Large&lt;/a&gt;&#39;, &lt;em&gt;Management Science&lt;/em&gt;, 58(1): 2–20.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2-refinements-for-dynamic-and-repeated-games&#34;&gt;2. Refinements for dynamic and repeated games&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dynamic games (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L07-Dynamo.pdf&#34;&gt;Lecture 7&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Refinements (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L08-Refinements.pdf&#34;&gt;Lecture 8&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Repeated games (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L17-RepGames1.pdf&#34;&gt;Lecture 17&lt;/a&gt; and &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L18-RepGames2prnt.pdf&#34;&gt;Lecture 18&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;assignments-1&#34;&gt;Assignments&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Week 4&lt;/em&gt;: &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-W4-Class.pdf&#34;&gt;Problem set 4&lt;/a&gt;, problems 1 to 3.&lt;br&gt;
+&lt;em&gt;Week 5&lt;/em&gt;: &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-W8-Class.pdf&#34;&gt;Problem set 8&lt;/a&gt;, problems 1 to 3.&lt;/p&gt;
+
+&lt;h4 id=&#34;suggested-readings-1&#34;&gt;Suggested readings&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MO chapters 5, 6, 7 (extensive games with perfect information), 10 up to 10.4 included (extensive games with imperfect information), 14 and 15 (repeated games).&lt;/li&gt;
+&lt;li&gt;Abreu, D., D. Pierce and E. Stacchetti. 1986. &#39;&lt;a href=&#34;http://people.sabanciuniv.edu/~barlo/courses/ECON607/AbreuPearceStachetti86.pdf&#34;&gt;Optimal Cartel Equilibria with Imperfect Monitoring&lt;/a&gt;&#39;, &lt;em&gt;Journal of Economic Theory&lt;/em&gt;, 39: 251–269. [The introduction and conclusion to this article are enough–all the rest is &lt;em&gt;very&lt;/em&gt; technical and way beyond the scope of this course.]&lt;/li&gt;
+&lt;li&gt;Aumann, R. 1995. &#39;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0899825605800156&#34;&gt;Backward Induction and Common Knowledge of Rationality&lt;/a&gt;&#39;, &lt;em&gt;Games and Economic Behavior&lt;/em&gt;, 8(1): 6–19.&lt;/li&gt;
+&lt;li&gt;Eso, P. and J. Schummer. 2009. &#39;&lt;a href=&#34;https://link.springer.com/article/10.1007/s00182-009-0161-x&#34;&gt;Credible Deviations from Signaling Equilibria&lt;/a&gt;&#39;, &lt;em&gt;International Journal of Game Theory&lt;/em&gt;, 38(3): 411–430.&lt;/li&gt;
+&lt;li&gt;Farrell, J. and E. Maskin. 1989. &#39;&lt;a href=&#34;https://scholar.harvard.edu/files/maskin/files/renegotiation_in_repeated_games.pdf&#34;&gt;Renegotiation in Repeated Games&lt;/a&gt;&#39;, &lt;em&gt;Games and Economic Behavior&lt;/em&gt;, 1(4): 327–360.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ii-applied-game-theory-who-gets-whatand-why&#34;&gt;II. Applied game theory: Who gets what–and why?&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-auctions-and-mechanism-design&#34;&gt;1. Auctions and mechanism design&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Auction theory (&lt;a href=&#34;https://jcspil.io/files/auctions.pdf&#34;&gt;my lecture notes&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Mechanism design (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L16-EfficientMD.pdf&#34;&gt;Lecture 16&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;assignments-2&#34;&gt;Assignments&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Week 6&lt;/em&gt;: Essay (see &lt;a href=&#34;https://jcspil.io/files/gt-additional_assignments.pdf&#34;&gt;Additional assignments&lt;/a&gt;), which must be between 900 and 1100 words in length (excluding references). Your answer should demonstrate in-depth understanding of the question in relation to concepts from the course, but will also be assessed on the quality of written expression, the argumentative structure, and engagement with the literature.&lt;br&gt;
+&lt;em&gt;Week 7&lt;/em&gt;: Problems A, B and C (see Additional assignments); &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/7627d499-7ccd-47ae-a5f4-d12167b757fd/Add%202016-17%20resources/Peter%20Eso/GT17-W7-Class.pdf&#34;&gt;problem set 7&lt;/a&gt;, problem 2.&lt;/p&gt;
+
+&lt;h4 id=&#34;suggested-readings-2&#34;&gt;Suggested readings&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Krishna, V. 2002. &lt;em&gt;Auction Theory&lt;/em&gt;, Academic Press. [Chapter 5 (mechanism design)].&lt;/li&gt;
+&lt;li&gt;Klemperer, P. 2004. &lt;em&gt;Auctions: Theory and Practice&lt;/em&gt;, Princeton University Press. [Part A and the associated
+appendix.]&lt;/li&gt;
+&lt;li&gt;Athey, S., J. Levin and E. Seira. 2011. &#39;&lt;a href=&#34;https://web.stanford.edu/~jdlevin/Papers/Auctions.pdf&#34;&gt;Comparing open and sealed bid auctions: Evidence from timber
+auctions&lt;/a&gt;&#39;, &lt;em&gt;Quarterly Journal of Economics&lt;/em&gt;, 126(1): 207–257.&lt;/li&gt;
+&lt;li&gt;Myerson, R. 1981. &#39;&lt;a href=&#34;http://www.eecs.harvard.edu/cs286r/courses/spring07/papers/myerson.pdf&#34;&gt;Optimal Auction Design&lt;/a&gt;&#39;, &lt;em&gt;Mathematics of Operations Research&lt;/em&gt;, 6(1): 58–73. [The proofs of Lemma 2 (which became Myerson’s Lemma) and its corollary (the Revenue Equivalence Theorem) are particularly instructive.]&lt;/li&gt;
+&lt;li&gt;Vickrey, W. 1961. &#39;&lt;a href=&#34;https://www.jstor.org/stable/2977633?seq=1#page_scan_tab_contents&#34;&gt;Counterspeculation, Auctions, and Competitive Sealed Tenders&lt;/a&gt;&#39;, &lt;em&gt;Journal of Finance&lt;/em&gt;, 16(1): 8–37. [The most interesting sections for this purpose are II and especially III, where Vickrey introduces the eponymous auction.]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2-bargaining-and-signaling&#34;&gt;2. Bargaining and signaling&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bargaining (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Alan%20Beggs/Barg2017.pdf&#34;&gt;Lectures 9 and 10&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Signaling (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L13-Information.pdf&#34;&gt;Lecture 13&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;assignment&#34;&gt;Assignment&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Week 8&lt;/em&gt;: &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Alan%20Beggs/BargProblems2017.pdf&#34;&gt;Problem set 5&lt;/a&gt;, problems 1 to 3; proof (see &lt;a href=&#34;https://jcspil.io/files/gt-additional_assignments.pdf&#34;&gt;Additional assignments&lt;/a&gt;): no length restrictions–although conciseness is an essential virtue in this exercise!&lt;/p&gt;
+
+&lt;h4 id=&#34;suggested-readings-3&#34;&gt;Suggested readings&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MO chapter 16 (bargaining) and chapters 10.5 to 10.9 (signaling games).&lt;/li&gt;
+&lt;li&gt;Fudenberg, D. and J. Tirole. 1991. &lt;em&gt;Game Theory&lt;/em&gt;. MIT Press. [Chapters 9 (reputation) and 11.2 (signaling)].&lt;/li&gt;
+&lt;li&gt;Akerlof, G. 1970. &#39;&lt;a href=&#34;https://www.sas.upenn.edu/~hfang/teaching/socialinsurance/readings/fudan_hsbc/Akerlof70(2.1).pdf&#34;&gt;The Market for Lemons: Quality Uncertainty and the Market Mechanism&lt;/a&gt;&#39;, &lt;em&gt;Quarterly Journal of Economics&lt;/em&gt;, 84(3): 488–500.&lt;/li&gt;
+&lt;li&gt;Ambrus, A., E. Chaney and I. Salitskiy. 2016. &#39;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.3982/QE655&#34;&gt;Pirates of the Mediterranean: An Empirical Investigation of Bargaining with Asymmetric Information&lt;/a&gt;&#39;, &lt;em&gt;Quantitative Economics&lt;/em&gt;, 9(1): 217–246.&lt;/li&gt;
+&lt;li&gt;McKay, R., D. Mijovic-Prelec, and D. Prelec. 2011. &#39;&lt;a href=&#34;https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/protesting-too-much-self-deception-and-self-signaling/989B9E7E02C104FA18D1C2ED34DA91BB&#34;&gt;Protesting Too Much: Self-Deception and Self-Signaling&lt;/a&gt;&#39;, &lt;em&gt;Behavioral and Brain Sciences&lt;/em&gt;, 34(1): 34–35.&lt;/li&gt;
+&lt;li&gt;Nash, J. 1950. &#39;&lt;a href=&#34;http://www.math.mcgill.ca/vetta/CS764.dir/nashbarg.pdf&#34;&gt;The Bargaining Problem&lt;/a&gt;&#39;, &lt;em&gt;Econometrica&lt;/em&gt;, 18(2), 155–162.&lt;/li&gt;
+&lt;li&gt;Spence, M. 1973 &#39;&lt;a href=&#34;https://www2.bc.edu/thomas-chemmanur/phdfincorp/MF891%20papers/Spence%201973.pdf&#34;&gt;Job Market Signaling&lt;/a&gt;&#39;, &lt;em&gt;Quarterly Journal of Economics&lt;/em&gt;, 87 (1073), 355–374.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Financial Crises and Crashes</title>
+      <link>https://jcspil.io/teaching-resource/financial-crises-and-crashes/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/financial-crises-and-crashes/</guid>
+      <description>&lt;p&gt;This course consists in four lectures, aimed at masters and upper-undergraduate students, for the Easter program at CBL International. From their onset to their amplification and, finally, the policies that lead to their resolution, this course covers the history and economic theories of financial crises and market crashes, drawing from academic literature as well as testimonies and insights from practitioners.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-a-brief-history-of-financial-crises&#34;&gt;1. A brief history of financial crises&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Brunnermeier, M. K. 2009. &amp;ldquo;
+&lt;a href=&#34;http://dx.doi.org/10.1257/jep.23.1.77&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deciphering the Liquidity and Credit Crunch 2007-2008&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Journal of Economic Perspectives&lt;/em&gt; 23, no. 1: 77–100.&lt;/li&gt;
+&lt;li&gt;Allen, F., and D. Gale. 2009. Chapter One in &lt;em&gt;Understanding Financial Crises&lt;/em&gt;. Oxford University Press.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-that-escalated-quickly-crisis-transmission-channels&#34;&gt;2. That escalated quickly: crisis transmission channels&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Geanakoplos, J. 2009. &amp;ldquo;
+&lt;a href=&#34;http://www.nber.org/chapters/c11786.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Leverage Cycle&lt;/a&gt;.&amp;rdquo; &lt;em&gt;NBER Macroeconomics Annual&lt;/em&gt; 24: 1–65.&lt;/li&gt;
+&lt;li&gt;Jorion, P. 2000. &amp;ldquo;
+&lt;a href=&#34;http://dx.doi.org/10.1111/1468-036X.00125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Risk Management Lessons from Long Term Capital Management&lt;/a&gt;.&amp;rdquo; &lt;em&gt;European Financial Management&lt;/em&gt; 6, no. 3: 277–300.&lt;/li&gt;
+&lt;li&gt;Acemoglu, D., A. Ozdaglar and A. Tahbaz-Salehi. 2013. &amp;ldquo;
+&lt;a href=&#34;http://www.nber.org/papers/w18727.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Systemic Risk and Stability in Financial Networks&lt;/a&gt;.&amp;rdquo; National Bureau of Economic Research Working Paper no. 18727.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-the-behavioral-origins-of-financial-crises&#34;&gt;3. The behavioral origins of financial crises&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Schiller, R. 2003. &amp;ldquo;
+&lt;a href=&#34;https://pubs.aeaweb.org/doi/pdfplus/10.1257/089533003321164967&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;From Efficient Markets Theory to Behavioral Finance&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Journal of Economic Perspectives&lt;/em&gt; 17, no. 1: 83-104.&lt;/li&gt;
+&lt;li&gt;Barberis, N. 2011. &amp;ldquo;
+&lt;a href=&#34;http://faculty.som.yale.edu/nicholasbarberis/cp10.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Psychology and the Financial Crisis of 2007-2008&lt;/a&gt;.&amp;rdquo; Yale School of Management, August 2011.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-walking-through-fire-policy-in-times-of-crisis&#34;&gt;4. Walking through fire: policy in times of crisis&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bernanke, B. S. 2009. &amp;ldquo;
+&lt;a href=&#34;https://www.federalreserve.gov/newsevents/speech/bernanke20090113a.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Crisis and the Policy Response&lt;/a&gt;.&amp;rdquo; Stamp Lecture, London School of Economics, January 13, 2009.&lt;/li&gt;
+&lt;li&gt;Kohn, D. L. 2010. &amp;ldquo;
+&lt;a href=&#34;http://www.federalreserve.gov/newsevents/speech/kohn20100513a.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Federal Reserve’s Policy Actions During the Financial Crisis and Lessons for the Future&lt;/a&gt;.&amp;rdquo; Carleton University, May 13, 2010.&lt;/li&gt;
+&lt;li&gt;Swagel, P. 2015. &amp;ldquo;
+&lt;a href=&#34;http://dx.doi.org/10.1257/jep.29.2.107&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Legal, Political, and Institutional Constraints on the Financial Crisis Policy Response&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Journal of Economic Perspectives&lt;/em&gt; 29, no. 2: 107-22.&lt;/li&gt;
+&lt;li&gt;Caballero, R. J. 2010. &amp;ldquo;
+&lt;a href=&#34;http://dx.doi.org/10.1057/imfer.2010.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sudden Financial Arrest&lt;/a&gt;.&amp;rdquo; &lt;em&gt;IMF Economic Review&lt;/em&gt; 58, no. 1: 6-36.&lt;/li&gt;
+&lt;li&gt;Hanson, S. G., A. K. Kashyap and J. C. Stein. 2011. &amp;ldquo;
+&lt;a href=&#34;http://dx.doi.org/10.1257/jep.25.1.3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Macroprudential Approach to Financial Regulation&lt;/a&gt;.&amp;rdquo;
+&lt;em&gt;Journal of Economic Perspectives&lt;/em&gt; 25, no. 1: 3-28.&lt;/li&gt;
+&lt;li&gt;Blanchard, O., G. Dell’Ariccia and P. Mauro. 2010. &amp;ldquo;
+&lt;a href=&#34;http://dx.doi.org/10.1111/j.1538-4616.2010.00334.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rethinking Macroeconomic Policy&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Journal of
+Money, Credit and Banking&lt;/em&gt; 42, no. 1: 199-215.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Behavioural Economics</title>
+      <link>https://jcspil.io/teaching-resource/behavioral-economics/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/behavioral-economics/</guid>
+      <description>&lt;p&gt;One of the most fascinating paradoxes of behavioural economics is its ambivalent relationship with the rest of economic theory. On the one hand, by describing and conceptualizing how human decisions depart from rationality, behaviourists place themselves at the forefront of the critique of neoclassical economics. On the other hand, behavioural economics remain largely indebted to rational decision theorists, who long before sought to improve the realism of their models. This course therefore begins with an overview of neoclassical decision theory, including empirical applications and measurement. This allows to explore its legacy and its points of clash with modern behavioural economics and economic psychology.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1-neoclassical-decision-theory-risk-and-time-preferences&#34;&gt;1. Neoclassical decision theory: risk and time preferences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Varian, H. R. 2009. &lt;em&gt;Intermediate Microeconomics: A Modern Approach&lt;/em&gt;. W. W. Norton &amp;amp; Company, 8th edition.&lt;/li&gt;
+&lt;li&gt;Andreoni, J. and C. Sprenger. 2012. 
+&lt;a href=&#34;http://econweb.ucsd.edu/~jandreon/Publications/AER12-AS-RiskTime.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Risk Preferences Are Not Time Preferences&amp;rsquo;&lt;/a&gt;. &lt;em&gt;American Economic Review&lt;/em&gt; 102, no. 7: 3357–3376.&lt;/li&gt;
+&lt;li&gt;Callen, M., M. Isaqzadeh, J. D. Long and C. Sprenger. 2014. 
+&lt;a href=&#34;https://epod.cid.harvard.edu/sites/default/files/2018-02/violence_and_risk_preference-_experimental_evidence_from_afghanistan_.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Violence and Risk Preference: Experimental Evidence from Afghanistan&amp;rsquo;&lt;/a&gt;. &lt;em&gt;American Economic Review&lt;/em&gt; 104, no. 1: 123–148.&lt;/li&gt;
+&lt;li&gt;Simon, H. 1978. 
+&lt;a href=&#34;https://www.jstor.org/stable/1816653?seq=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Rationality as Process and as Product of Thought&amp;rsquo;&lt;/a&gt;. &lt;em&gt;The American Economic Review&lt;/em&gt; 68, no. 2: 1–16.&lt;/li&gt;
+&lt;li&gt;Voors, M. J., E. Nillesen, P. Verwimp, E. H. Bulte, R. Lensink and D. P. Van Soest. 2012. 
+&lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/aer.102.2.941&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Violent Conflict and Behavior: A Field Experiment in Burundi&amp;rsquo;&lt;/a&gt;. &lt;em&gt;American Economic Review&lt;/em&gt; 102, no. 2: 941–964.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-social-preferences&#34;&gt;2. Social preferences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cassar, A., P. Grosjean and S. Whitt. 2013. 
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s10887-013-9091-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Legacies of Violence: Trust and Market Development&amp;rsquo;&lt;/a&gt;. &lt;em&gt;Journal of Economic Growth&lt;/em&gt; 18, no. 3: 285–318.&lt;/li&gt;
+&lt;li&gt;Gilligan, M. J., B. J. Pasquale and C. Samii. 2014. 
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Civil War and Social Cohesion: Lab‐in‐the‐Field Evidence from Nepal&amp;rsquo;&lt;/a&gt;. &lt;em&gt;American Journal of Political Science&lt;/em&gt; 58, no. 3: 604—619.&lt;/li&gt;
+&lt;li&gt;List, J. A. 2007. 
+&lt;a href=&#34;http://home.uchicago.edu/jlist/papers/dictator_game.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;On the Interpretation of Giving in Dictator Games&amp;rsquo;&lt;/a&gt;. &lt;em&gt;Journal of Political Economy&lt;/em&gt; 115, no. 3: 482–493.&lt;/li&gt;
+&lt;li&gt;Bauer, M., C. Blattman, J. Chytilová, J. Henrich, E. Miguel and T. Mitts. 2016. 
+&lt;a href=&#34;https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.30.3.249&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Can War Foster Cooperation?&#39;&lt;/a&gt;&amp;rdquo; &lt;em&gt;Journal of Economic Perspectives&lt;/em&gt; 30, no. 3: 249–274.&lt;/li&gt;
+&lt;li&gt;Bauer, M., A. Cassar, J. Chytilová and J. Henrich. 2014. 
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/24220626&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;War&amp;rsquo;s Enduring Effects on the Development of Egalitarian Motivations and In-Group Biases&amp;rsquo;&lt;/a&gt;. &lt;em&gt;Psychological Science&lt;/em&gt; 25, no. 1: 47-57.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-from-neoclassical-to-behavioral-economics&#34;&gt;3. From neoclassical to behavioral economics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;van den Assem, M., D. van Dolder and R. Thaler. 2012. 
+&lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1110.1413&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Split or Steal? Cooperative Behavior when the Stakes are Large&amp;rsquo;&lt;/a&gt;. &lt;em&gt;Management Science&lt;/em&gt;, 58, no. 1: 2—20.&lt;/li&gt;
+&lt;li&gt;Kahnemann, D. and A. Tversky. 1984. 
+&lt;a href=&#34;http://web.missouri.edu/~segerti/capstone/choicesvalues.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Choice, Values, and Frames&amp;rsquo;&lt;/a&gt;. &lt;em&gt;American Psychologist&lt;/em&gt; 39, no. 4: 341–350.&lt;/li&gt;
+&lt;li&gt;Kahnemann, D. and A. Tversky. 1979. 
+&lt;a href=&#34;http://www.its.caltech.edu/~camerer/Ec101/ProspectTheory.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Prospect Theory: An Analysis of Decision under Risk&amp;rsquo;&lt;/a&gt;. &lt;em&gt;Econometrica&lt;/em&gt; 47: 264–291.&lt;/li&gt;
+&lt;li&gt;Kahnemann, D. 2012. &lt;em&gt;Thinking, Fast and Slow&lt;/em&gt;. Penguin, reprint edition.&lt;/li&gt;
+&lt;li&gt;Simon, H. 1955. 
+&lt;a href=&#34;https://academic.oup.com/qje/article-abstract/69/1/99/1919737&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;A Behavioural Model of Rational Choice&amp;rsquo;&lt;/a&gt;. &lt;em&gt;The Quarterly Journal of Economics&lt;/em&gt; 69, no. 1: 99–118&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-topics-in-economic-psychology&#34;&gt;4. Topics in economic psychology&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Thaler, R. H. and H. M. Shefrin. 1981. 
+&lt;a href=&#34;http://faculty.chicagobooth.edu/richard.thaler/research/pdf/an%20economic%20theory%20of%20self-contol.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;An Economic Theory of Self-Control&amp;rsquo;&lt;/a&gt;. &lt;em&gt;Journal of Political Economy&lt;/em&gt; 89, no. 2: 392–406.&lt;/li&gt;
+&lt;li&gt;Chance, Z., M. I. Nortona, F. Ginob, and D. Ariely. 2011. 
+&lt;a href=&#34;http://www.pnas.org/content/108/Supplement_3/15655&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Temporal View of the Costs and Benefits of Self-Deception&amp;rsquo;&lt;/a&gt;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 108, no 3: 15655–15659.&lt;/li&gt;
+&lt;li&gt;Falk, A. 2017. 
+&lt;a href=&#34;https://www.briq-institute.org/wc/files/people/armin-falk/working-papers/facing-yourself-a-note-on-self-image.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Facing Yourself: A Note on Self-Image&amp;rsquo;&lt;/a&gt;. &lt;em&gt;IZA Discussion Paper Series&lt;/em&gt;, no. 10606.&lt;/li&gt;
+&lt;li&gt;Simon, H. 1956. 
+&lt;a href=&#34;http://knowen-production.s3.amazonaws.com/uploads/attachment/file/2128/Rational%2BChoice%2Band%2Bthe%2Bstructure%2Bof%2Bthe%2Benvironment%2B-%2BHerbert%2BSimon.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Rational Choice and the Structure of the Environment&amp;rsquo;&lt;/a&gt;. &lt;em&gt;Psychological Review&lt;/em&gt; 63, no. 2: 129–138.&lt;/li&gt;
+&lt;li&gt;Simon, H. 1985. 
+&lt;a href=&#34;https://www.jstor.org/stable/1956650?seq=1#metadata_info_tab_contents&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Human Nature in Politics: The Dialogue of Psychology with Political Science&amp;rsquo;&lt;/a&gt;. &lt;em&gt;The American Political Science Review&lt;/em&gt; 79, no. 2: 293–304.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

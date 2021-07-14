@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematics on Jean-Christophe Spiliotis</title>
+    <link>https://jcspil.io/tags/mathematics/</link>
+    <description>Recent content in Mathematics on Jean-Christophe Spiliotis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Header: *color-wander* by [Matt DesLauriers](https://www.mattdesl.com/)</copyright>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jcspil.io/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Game Theory</title>
+      <link>https://jcspil.io/teaching-resource/game-theory/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/game-theory/</guid>
+      <description>&lt;p&gt;Game theory is one of the success stories of modern economics. Originally concerned with gambling, it has since become part of the standard toolkit of social scientists, biologists, psychologists, political scientists -- even historians and philosophers! This course is an introduction to the methods and applications of game theory. It is designed to stimulate careful thinking about the use (and potential abuse) of mathematics as an instrument for the formal study of strategic behaviour. It also provides empirical evidence on these interactions.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;i-pure-game-theory&#34;&gt;I. Pure game theory&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-fundamentals-of-game-theory&#34;&gt;1. Fundamentals of game theory&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Solution concepts (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture1.pdf&#34;&gt;Lecture 1&lt;/a&gt;, &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture2.pdf&#34;&gt;Lecture 2&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Bayesian games (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture4.pdf&#34;&gt;Lecture 4&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Global games (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture5.pdf&#34;&gt;Lecture 5&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Voting games (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture%206_SH.pdf&#34;&gt;Lecture 6&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Behavioral game theory (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Lecture1.pdf&#34;&gt;Lecture 3&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;assignments&#34;&gt;Assignments&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Week 2&lt;/em&gt;: &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Class1.pdf&#34;&gt;Problem set 1&lt;/a&gt;, problems 1, 2 and 3; &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Class2_alt.pdf&#34;&gt;problem set 2&lt;/a&gt;, problem 1.&lt;br&gt;
+&lt;em&gt;Week 3&lt;/em&gt;: &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Class2_alt.pdf&#34;&gt;Problem set 2&lt;/a&gt;, problems 2 and 3; &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Class3.pdf&#34;&gt;problem set 3&lt;/a&gt;, problem 2.&lt;/p&gt;
+
+&lt;h4 id=&#34;suggested-readings&#34;&gt;Suggested readings&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MO chapters 2 (Nash equilibrium), 4 (mixed-strategy equilibrium), 9 (Bayesian games) and 12 (rationalizability).&lt;/li&gt;
+&lt;li&gt;Chiappori, P., S. Levitt, and T. Groseclose, &#39;&lt;a href=&#34;http://pricetheory.uchicago.edu/levitt/Papers/ChiapporiGrosecloseLevitt2002.pdf&#34;&gt;Testing Mixed-Strategy Equilibria when Players are Heterogeneous: The Case of Penalty Kicks in Soccer&lt;/a&gt;&#39;, &lt;em&gt;American Economic Review&lt;/em&gt;, 92 (2002), 1138--1151.&lt;/li&gt;
+&lt;li&gt;Diamond, D. &#39;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.417.4607&amp;amp;rep=rep1&amp;amp;type=pdf&#34;&gt;Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model&lt;/a&gt;&#39;, &lt;em&gt;Economics Quarterly&lt;/em&gt;, 93 (2007), 189–200.&lt;/li&gt;
+&lt;li&gt;van den Assem, M., D. van Dolder and R. Thaler. 2012. &#39;&lt;a href=&#34;https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1110.1413&#34;&gt;Split or Steal? Cooperative Behavior when the Stakes are Large&lt;/a&gt;&#39;, &lt;em&gt;Management Science&lt;/em&gt;, 58(1): 2–20.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2-refinements-for-dynamic-and-repeated-games&#34;&gt;2. Refinements for dynamic and repeated games&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dynamic games (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L07-Dynamo.pdf&#34;&gt;Lecture 7&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Refinements (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L08-Refinements.pdf&#34;&gt;Lecture 8&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Repeated games (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L17-RepGames1.pdf&#34;&gt;Lecture 17&lt;/a&gt; and &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L18-RepGames2prnt.pdf&#34;&gt;Lecture 18&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;assignments-1&#34;&gt;Assignments&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Week 4&lt;/em&gt;: &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-W4-Class.pdf&#34;&gt;Problem set 4&lt;/a&gt;, problems 1 to 3.&lt;br&gt;
+&lt;em&gt;Week 5&lt;/em&gt;: &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-W8-Class.pdf&#34;&gt;Problem set 8&lt;/a&gt;, problems 1 to 3.&lt;/p&gt;
+
+&lt;h4 id=&#34;suggested-readings-1&#34;&gt;Suggested readings&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MO chapters 5, 6, 7 (extensive games with perfect information), 10 up to 10.4 included (extensive games with imperfect information), 14 and 15 (repeated games).&lt;/li&gt;
+&lt;li&gt;Abreu, D., D. Pierce and E. Stacchetti. 1986. &#39;&lt;a href=&#34;http://people.sabanciuniv.edu/~barlo/courses/ECON607/AbreuPearceStachetti86.pdf&#34;&gt;Optimal Cartel Equilibria with Imperfect Monitoring&lt;/a&gt;&#39;, &lt;em&gt;Journal of Economic Theory&lt;/em&gt;, 39: 251–269. [The introduction and conclusion to this article are enough–all the rest is &lt;em&gt;very&lt;/em&gt; technical and way beyond the scope of this course.]&lt;/li&gt;
+&lt;li&gt;Aumann, R. 1995. &#39;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0899825605800156&#34;&gt;Backward Induction and Common Knowledge of Rationality&lt;/a&gt;&#39;, &lt;em&gt;Games and Economic Behavior&lt;/em&gt;, 8(1): 6–19.&lt;/li&gt;
+&lt;li&gt;Eso, P. and J. Schummer. 2009. &#39;&lt;a href=&#34;https://link.springer.com/article/10.1007/s00182-009-0161-x&#34;&gt;Credible Deviations from Signaling Equilibria&lt;/a&gt;&#39;, &lt;em&gt;International Journal of Game Theory&lt;/em&gt;, 38(3): 411–430.&lt;/li&gt;
+&lt;li&gt;Farrell, J. and E. Maskin. 1989. &#39;&lt;a href=&#34;https://scholar.harvard.edu/files/maskin/files/renegotiation_in_repeated_games.pdf&#34;&gt;Renegotiation in Repeated Games&lt;/a&gt;&#39;, &lt;em&gt;Games and Economic Behavior&lt;/em&gt;, 1(4): 327–360.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ii-applied-game-theory-who-gets-whatand-why&#34;&gt;II. Applied game theory: Who gets what–and why?&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-auctions-and-mechanism-design&#34;&gt;1. Auctions and mechanism design&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Auction theory (&lt;a href=&#34;https://jcspil.io/files/auctions.pdf&#34;&gt;my lecture notes&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Mechanism design (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L16-EfficientMD.pdf&#34;&gt;Lecture 16&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;assignments-2&#34;&gt;Assignments&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Week 6&lt;/em&gt;: Essay (see &lt;a href=&#34;https://jcspil.io/files/gt-additional_assignments.pdf&#34;&gt;Additional assignments&lt;/a&gt;), which must be between 900 and 1100 words in length (excluding references). Your answer should demonstrate in-depth understanding of the question in relation to concepts from the course, but will also be assessed on the quality of written expression, the argumentative structure, and engagement with the literature.&lt;br&gt;
+&lt;em&gt;Week 7&lt;/em&gt;: Problems A, B and C (see Additional assignments); &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/7627d499-7ccd-47ae-a5f4-d12167b757fd/Add%202016-17%20resources/Peter%20Eso/GT17-W7-Class.pdf&#34;&gt;problem set 7&lt;/a&gt;, problem 2.&lt;/p&gt;
+
+&lt;h4 id=&#34;suggested-readings-2&#34;&gt;Suggested readings&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Krishna, V. 2002. &lt;em&gt;Auction Theory&lt;/em&gt;, Academic Press. [Chapter 5 (mechanism design)].&lt;/li&gt;
+&lt;li&gt;Klemperer, P. 2004. &lt;em&gt;Auctions: Theory and Practice&lt;/em&gt;, Princeton University Press. [Part A and the associated
+appendix.]&lt;/li&gt;
+&lt;li&gt;Athey, S., J. Levin and E. Seira. 2011. &#39;&lt;a href=&#34;https://web.stanford.edu/~jdlevin/Papers/Auctions.pdf&#34;&gt;Comparing open and sealed bid auctions: Evidence from timber
+auctions&lt;/a&gt;&#39;, &lt;em&gt;Quarterly Journal of Economics&lt;/em&gt;, 126(1): 207–257.&lt;/li&gt;
+&lt;li&gt;Myerson, R. 1981. &#39;&lt;a href=&#34;http://www.eecs.harvard.edu/cs286r/courses/spring07/papers/myerson.pdf&#34;&gt;Optimal Auction Design&lt;/a&gt;&#39;, &lt;em&gt;Mathematics of Operations Research&lt;/em&gt;, 6(1): 58–73. [The proofs of Lemma 2 (which became Myerson’s Lemma) and its corollary (the Revenue Equivalence Theorem) are particularly instructive.]&lt;/li&gt;
+&lt;li&gt;Vickrey, W. 1961. &#39;&lt;a href=&#34;https://www.jstor.org/stable/2977633?seq=1#page_scan_tab_contents&#34;&gt;Counterspeculation, Auctions, and Competitive Sealed Tenders&lt;/a&gt;&#39;, &lt;em&gt;Journal of Finance&lt;/em&gt;, 16(1): 8–37. [The most interesting sections for this purpose are II and especially III, where Vickrey introduces the eponymous auction.]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;2-bargaining-and-signaling&#34;&gt;2. Bargaining and signaling&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bargaining (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Alan%20Beggs/Barg2017.pdf&#34;&gt;Lectures 9 and 10&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Signaling (&lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Peter%20Eso/GT17-L13-Information.pdf&#34;&gt;Lecture 13&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;assignment&#34;&gt;Assignment&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Week 8&lt;/em&gt;: &lt;a href=&#34;https://weblearn.ox.ac.uk/access/content/group/3f835e88-7f0e-4569-ac15-933a4f9c323c/Add%202016-17%20resources/Alan%20Beggs/BargProblems2017.pdf&#34;&gt;Problem set 5&lt;/a&gt;, problems 1 to 3; proof (see &lt;a href=&#34;https://jcspil.io/files/gt-additional_assignments.pdf&#34;&gt;Additional assignments&lt;/a&gt;): no length restrictions–although conciseness is an essential virtue in this exercise!&lt;/p&gt;
+
+&lt;h4 id=&#34;suggested-readings-3&#34;&gt;Suggested readings&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MO chapter 16 (bargaining) and chapters 10.5 to 10.9 (signaling games).&lt;/li&gt;
+&lt;li&gt;Fudenberg, D. and J. Tirole. 1991. &lt;em&gt;Game Theory&lt;/em&gt;. MIT Press. [Chapters 9 (reputation) and 11.2 (signaling)].&lt;/li&gt;
+&lt;li&gt;Akerlof, G. 1970. &#39;&lt;a href=&#34;https://www.sas.upenn.edu/~hfang/teaching/socialinsurance/readings/fudan_hsbc/Akerlof70(2.1).pdf&#34;&gt;The Market for Lemons: Quality Uncertainty and the Market Mechanism&lt;/a&gt;&#39;, &lt;em&gt;Quarterly Journal of Economics&lt;/em&gt;, 84(3): 488–500.&lt;/li&gt;
+&lt;li&gt;Ambrus, A., E. Chaney and I. Salitskiy. 2016. &#39;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.3982/QE655&#34;&gt;Pirates of the Mediterranean: An Empirical Investigation of Bargaining with Asymmetric Information&lt;/a&gt;&#39;, &lt;em&gt;Quantitative Economics&lt;/em&gt;, 9(1): 217–246.&lt;/li&gt;
+&lt;li&gt;McKay, R., D. Mijovic-Prelec, and D. Prelec. 2011. &#39;&lt;a href=&#34;https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/protesting-too-much-self-deception-and-self-signaling/989B9E7E02C104FA18D1C2ED34DA91BB&#34;&gt;Protesting Too Much: Self-Deception and Self-Signaling&lt;/a&gt;&#39;, &lt;em&gt;Behavioral and Brain Sciences&lt;/em&gt;, 34(1): 34–35.&lt;/li&gt;
+&lt;li&gt;Nash, J. 1950. &#39;&lt;a href=&#34;http://www.math.mcgill.ca/vetta/CS764.dir/nashbarg.pdf&#34;&gt;The Bargaining Problem&lt;/a&gt;&#39;, &lt;em&gt;Econometrica&lt;/em&gt;, 18(2), 155–162.&lt;/li&gt;
+&lt;li&gt;Spence, M. 1973 &#39;&lt;a href=&#34;https://www2.bc.edu/thomas-chemmanur/phdfincorp/MF891%20papers/Spence%201973.pdf&#34;&gt;Job Market Signaling&lt;/a&gt;&#39;, &lt;em&gt;Quarterly Journal of Economics&lt;/em&gt;, 87 (1073), 355–374.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistics and Data Analysis</title>
+      <link>https://jcspil.io/teaching-resource/statistics-and-data-analysis/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/statistics-and-data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics II</title>
+      <link>https://jcspil.io/teaching-resource/statistics-2/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/statistics-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability I</title>
+      <link>https://jcspil.io/teaching-resource/probability-1/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/probability-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability II</title>
+      <link>https://jcspil.io/teaching-resource/probability-2/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/probability-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial and Quantitative Economics</title>
+      <link>https://jcspil.io/teaching-resource/financial-and-quantitative-economics/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/financial-and-quantitative-economics/</guid>
+      <description>&lt;p&gt;This course provides a theoretical and empirical toolkit for the analysis of financial phenomena. In particular, it will cover how financial assets are valued; how businesses raise finance; how corporations are controlled; the role of corporate taxation and regulation; theories behind the financial crash; and the issues which arise in an international financial economy.&lt;/p&gt;
+&lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
+&lt;p&gt;Tutorial and consultation hours TBD.&lt;/p&gt;
+&lt;h3 id=&#34;assessment-and-readings&#34;&gt;Assessment and readings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This course will be assessed through 8 homework assignments, due at 12pm on the day before each tutorial (or a week after the last tutorial).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There will be compulsory readings every week. Several of those are drawn from Brealey, R. A., S. C. Myers and F. Allen. 2011. &lt;em&gt;Principles of Corporate Finance&lt;/em&gt; (10th ed.), henceforth BMA. Other suggested readings will not be covered in tutorials by default, but feel free to email me in advance (at least one day before) if you wish to discuss them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;At the end of each tutorial session, I will try and leave some time to discuss financial news or any other topics which might be of particular relevance or interest to the course. Again, I am happy to take suggestions ahead of time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;i-risk-investment-portfolios-and-markets&#34;&gt;I. Risk, investment, portfolios and markets&lt;/h2&gt;
+&lt;h3 id=&#34;tutorial-1-introduction&#34;&gt;Tutorial 1. Introduction&lt;/h3&gt;
+&lt;h4 id=&#34;readings&#34;&gt;Readings&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;BMA chapters 5, 6, 7 and 8.&lt;/li&gt;
+&lt;li&gt;Bodie, Z., A. Kane, and A. J. Marcus. 2011. &lt;em&gt;Investments and Portfolio Management&lt;/em&gt; (9th ed.). McGraw Hill. Chapters 5, 6, 7 and 9.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorial-2-capm&#34;&gt;Tutorial 2. CAPM&lt;/h3&gt;
+&lt;h4 id=&#34;readings-1&#34;&gt;Readings&lt;/h4&gt;
+&lt;p&gt;BMA chapters 8, 9, 16 and 17.&lt;/p&gt;
+&lt;h3 id=&#34;tutorial-3-advanced-asset-pricing-models&#34;&gt;Tutorial 3. Advanced asset pricing models&lt;/h3&gt;
+&lt;h4 id=&#34;readings-2&#34;&gt;Readings&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;BMA chapter 13.&lt;/li&gt;
+&lt;li&gt;Cochrane, J. 2001. &lt;em&gt;Asset Pricing&lt;/em&gt;. Princeton University Press. Chapter 21.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ii-corporate-finance&#34;&gt;II. Corporate finance&lt;/h2&gt;
+&lt;h3 id=&#34;tutorial-4-capital-and-financing&#34;&gt;Tutorial 4. Capital and financing&lt;/h3&gt;
+&lt;h4 id=&#34;readings-3&#34;&gt;Readings&lt;/h4&gt;
+&lt;p&gt;BMA chapters 8, 9, 16 and 17.&lt;/p&gt;
+&lt;h3 id=&#34;tutorial-5-corporate-governance&#34;&gt;Tutorial 5. Corporate governance&lt;/h3&gt;
+&lt;h4 id=&#34;readings-4&#34;&gt;Readings&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;BMA chapters 12, 15, 31, 32 and 33.&lt;/li&gt;
+&lt;li&gt;Bertrand, M. and S. Mullainathan. 2003. &amp;ldquo;
+&lt;a href=&#34;https://www.jstor.org/stable/10.1086/376950?seq=1#page_scan_tab_contents&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enjoying the Quiet Life? Corporate Governance and Managerial Preferences&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Journal of Political Economy&lt;/em&gt;, 111(5): 1043—1075.&lt;/li&gt;
+&lt;li&gt;Aghion, P. and R. Holden. 2011. &amp;ldquo;
+&lt;a href=&#34;https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.25.2.181&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Incomplete Contracts and the Theory of the Firm: What Have We Learned over the Past 25 years?&lt;/a&gt;&amp;rdquo; &lt;em&gt;Journal of Economic Perspectives&lt;/em&gt;, 25(2): 181—197.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorial-6-corporate-taxation&#34;&gt;Tutorial 6. Corporate taxation&lt;/h3&gt;
+&lt;h4 id=&#34;readings-5&#34;&gt;Readings&lt;/h4&gt;
+&lt;p&gt;BMA chapters 16 and 18.&lt;/p&gt;
+&lt;h2 id=&#34;iii-the-financial-sector&#34;&gt;III. The financial sector&lt;/h2&gt;
+&lt;h3 id=&#34;tutorial-7-banking-regulation-and-financial-crashes&#34;&gt;Tutorial 7. Banking, regulation and financial crashes&lt;/h3&gt;
+&lt;h4 id=&#34;readings-6&#34;&gt;Readings&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Acharya, V. V. and M. Richardson. 2009. &amp;ldquo;
+&lt;a href=&#34;http://icrier.org/pdf/Session%202%20-%20P%20-%20Viral%20Acharya-2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Causes of the Financial Crisis&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Critical Review&lt;/em&gt;, 21(2-3): 195—210.&lt;/li&gt;
+&lt;li&gt;Keys, B., J. T. Mukherjee, A. Seru. and V. Vig. 2010. &amp;ldquo;
+&lt;a href=&#34;https://academic.oup.com/qje/article-abstract/125/1/307/1880343?redirectedFrom=fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Did Securitization Lead to Lax Screening? Evidence from Subprime Loans&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Quarterly Journal of Economics&lt;/em&gt;, 125(1): 307—362.&lt;/li&gt;
+&lt;li&gt;Reinhart, C. M. and K. S. Rogoff. 2008. &amp;ldquo;
+&lt;a href=&#34;https://wcfia.harvard.edu/files/wcfia/files/krogoff_sub-prine_crisis_so_different.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Is the 2007 U.S. Subprime Crisis So Different? An International Historical Comparison&lt;/a&gt;.&amp;rdquo; &lt;em&gt;American Economic Review&lt;/em&gt;, 98(2): 339—344.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tutorial-8-international-finance&#34;&gt;Tutorial 8. International finance&lt;/h3&gt;
+&lt;h4 id=&#34;readings-7&#34;&gt;Readings&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lewis, K. K. 1999. &amp;ldquo;
+&lt;a href=&#34;https://faculty.wharton.upenn.edu/wp-content/uploads/2012/01/Lewis%28JEL%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trying to Explain Home Bias in Equities and Consumption&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Journal of Economic Literature&lt;/em&gt;, 37(2): 571—608.&lt;/li&gt;
+&lt;li&gt;Coval, J. D. and T. J. Moskowitz. 1999. &amp;ldquo;
+&lt;a href=&#34;http://www.people.hbs.edu/jcoval/papers/homebias.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Home Bias at Home: Local Equity Preferences in Domestic Portfolios&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Journal of Finance&lt;/em&gt;, 54(6): 2045—2073.&lt;/li&gt;
+&lt;li&gt;Karolyi, A. and R. Stulz. 2003. &amp;ldquo;
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1574010203010252&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Are financial assets priced locally or globally?&lt;/a&gt;&amp;rdquo; &lt;em&gt;Handbook of the Economics of Finance&lt;/em&gt;, 1(Part B): 975—1020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intermediate Econometrics</title>
+      <link>https://jcspil.io/teaching-resource/intermediate-econometrics/</link>
+      <pubDate>Sat, 26 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/intermediate-econometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introductory Econometrics</title>
+      <link>https://jcspil.io/teaching-resource/introductory-econometrics/</link>
+      <pubDate>Sat, 14 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/teaching-resource/introductory-econometrics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

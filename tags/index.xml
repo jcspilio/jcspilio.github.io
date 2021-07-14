@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jean-Christophe Spiliotis</title>
+    <link>https://jcspil.io/tags/</link>
+    <description>Recent content in Tags on Jean-Christophe Spiliotis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Header: *color-wander* by [Matt DesLauriers](https://www.mattdesl.com/)</copyright>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jcspil.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Behaviour</title>
+      <link>https://jcspil.io/tags/behaviour/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/tags/behaviour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematics</title>
+      <link>https://jcspil.io/tags/mathematics/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/tags/mathematics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent teaching</title>
+      <link>https://jcspil.io/tags/recent-teaching/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/tags/recent-teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://jcspil.io/tags/teaching/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data science</title>
+      <link>https://jcspil.io/tags/data-science/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>https://jcspil.io/tags/finance/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcspil.io/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
